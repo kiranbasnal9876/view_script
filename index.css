@@ -1,0 +1,24 @@
+#custom-widget-container {
+  z-index: 9999;
+  background: #fff;
+  border: 1px solid #ccc;
+  padding: 16px;
+  font-family: sans-serif;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  box-shadow: 0 0 10px #0003;
+}
+
+#custom-widget-container h3 {
+  color: #007bff;
+  margin-top: 0;
+}
+
+#custom-widget-container button {
+  color: #fff;
+  cursor: pointer;
+  background: #007bff;
+  border: none;
+  padding: 8px 12px;
+}
